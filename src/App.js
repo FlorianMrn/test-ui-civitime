@@ -1,8 +1,13 @@
-import React from 'react'
-import './App.css';
+import React from "react";
+import "./App.css";
+import Profil from "./components/Profil";
 
 const App = () => {
-    return <div id="temp-style"> Develop your test here </div>
-}
+  return (
+    <div id="temp-style">
+      <Profil />
+    </div>
+  );
+};
 
 export default App;
