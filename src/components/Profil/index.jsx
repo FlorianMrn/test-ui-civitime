@@ -15,7 +15,7 @@ import tshirt from "../../assets/t-shirt.svg";
 
 const Profil = () => {
   const colorsSkins = [colorFCD7B8, colorFCCC84, colorE0A39A, color533724];
-  const colorsTshirt = [color88C10F, colorB2C7C7, colorFF1414, colorstriped];
+  const colorsTshirt = [colorB2C7C7, color88C10F, colorFF1414, colorstriped];
 
   return (
     <section className="profil">
